@@ -24,4 +24,4 @@
 
 ### - [NeetCode](https://neetcode.io/)
 
-### - [Data Structure Checklist/Refresher]
+### - [Data Structure Checklist/Refresher](checklist.md)

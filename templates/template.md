@@ -3,17 +3,18 @@
 ## Problem Domain {{title}}
 -
 
-### input: 
-### output:
+### **input**
 
-### visual: 
+### **output**
 
-### algorithm:
+### **visual**
 
-### code: 
+### **algorithm**
 
-### testing:
+### **code**
 
-### BigO:
+### **testing**
+
+### **BigO**
 
 ### 👈 [Back to Table of Contents](../toc.md)

@@ -19,3 +19,9 @@
 ## Please find your way to the Table of Contents as well as a quick resource guide that I follow while working in this repo
 
 ### - [Table of Contents](toc.md)
+
+### - [LeetCode](https://leetcode.com/)
+
+### - [NeetCode](https://neetcode.io/)
+
+### - [Data Structure Checklist/Refresher]

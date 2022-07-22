@@ -6,4 +6,6 @@
 
 - [🌟 Two Sum](./code_challenges/two-sum.md)
 
+------
+
 ### 👈 [Back to README](README.md)

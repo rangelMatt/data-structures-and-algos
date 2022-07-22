@@ -2,7 +2,6 @@
 
 ## Problem Domain
 
-{{title}}
 -
 
 ### **input**
@@ -18,5 +17,11 @@
 ### **testing**
 
 ### **BigO**
+
+-----
+
+#### [**Leet Code Example**](https://leetcode.com/problems/two-sum)
+
+-----
 
 ### 👈 [Back to Table of Contents](../toc.md)

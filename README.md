@@ -13,5 +13,6 @@
 <h2 align="center">🤘Welcome to my GitHub!🤘</h2>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.rangelMatt" width="110px">
+<img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.dsa-exercises" width="100px">
 </p>
+

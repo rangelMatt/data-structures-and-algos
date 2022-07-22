@@ -1,21 +1,27 @@
 # Two Sum
 
-## Problem Domain 
+## Problem Domain
 
-{{title}}
 -
 
-### input: 
-### output:
+### **input**
 
-### visual: 
+### **output**
 
-### algorithm:
+### **visual**
 
-### code: 
+### **algorithm**
 
-### testing:
+### **code**
 
-### BigO:
+### **testing**
+
+### **BigO**
+
+-----
+
+#### [**Leet Code Example**](https://leetcode.com/problems/two-sum)
+
+-----
 
 ### 👈 [Back to Table of Contents](../toc.md)

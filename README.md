@@ -1,6 +1,4 @@
-# Data Structures and Algorithms
-
----------
+# Matt's Data Structures and Algorithms
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
@@ -10,9 +8,15 @@
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 </p>
 
-<h2 align="center">🤘Welcome to my GitHub!🤘</h2>
+<h2 align="center">Welcome to my Data Structures and Algorithm repo!</h2>
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=rangelMatt.dsa-exercises" width="100px">
 </p>
+
+-----
+
+## Please find your way to the Table of Contents as well as a quick resource guide that I follow while working in this repo
+
+### - Table of Contents
 

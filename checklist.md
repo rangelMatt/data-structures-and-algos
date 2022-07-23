@@ -7,11 +7,11 @@
 
 - ✔️ Github Merge Checklist:
   - [ ] README for this challenge is complete
-        - [ ] Summary
-        - [ ] Description
-        - [ ] Big-O
-            - [ ] Time
-            - [ ] Space
+    - [ ] Summary
+    - [ ] Description
+    - [ ] Big-O
+      - [ ] Time
+      - [ ] Space
     - [ ] Notes completed and sited
     - [ ] Feature tasks for this code challenge are completed
     - [ ] Unit tests written and passing

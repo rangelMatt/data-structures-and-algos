@@ -5,6 +5,7 @@
 ------
 
 - [🌟 Two Sum](./code_challenges/two-sum.md)
+- [🌟 Contains Duplicate](./code_challenges/contains_duplicate.md)
 
 ------
 

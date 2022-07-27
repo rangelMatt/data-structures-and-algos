@@ -16,6 +16,8 @@
 
 ### **BigO**
 
+### **Design Choice and Why**
+
 -----
 
 #### [**Leet Code Example**](https://leetcode.com/problems/two-sum)

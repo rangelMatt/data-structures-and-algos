@@ -8,6 +8,7 @@
 - [🌟 Contains Duplicate](./code_challenges/contains_duplicate.md)
 - [🌟 Reverse Linked list](./code_challenges/reverse_linked_list.md)
 - [🌟 Number of Islands](./code_challenges/number_of_islands.md)
+- [🌟 Merge Two Sorted Lists](./code_challenges/merge_two_sorted_lists.md)
 
 ------
 

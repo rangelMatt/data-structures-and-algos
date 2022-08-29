@@ -83,7 +83,7 @@ Went with DFS as it was able to iterate through each index and flip index to `0`
 
 -----
 
-#### [**Leet Code Example**](https://leetcode.com/problems/two-sum)
+#### [**Leet Code Example**](https://leetcode.com/problems/number-of-islands/)
 
 -----
 

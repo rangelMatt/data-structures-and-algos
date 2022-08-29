@@ -10,6 +10,7 @@
 - [🌟 Number of Islands](./code_challenges/number_of_islands.md)
 - [🌟 Merge Two Sorted Lists](./code_challenges/merge_two_sorted_lists.md)
 - [🌟 Slowest Key](./code_challenges/slowest_key.md)
+- [🌟 Trees Height](./code_challenges/trees_height.md)
 
 ------
 

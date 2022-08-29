@@ -78,7 +78,7 @@ This was a good function that anyone could jump in and read, and it is fairly qu
 
 -----
 
-#### [**Leet Code Example**](https://leetcode.com/problems/two-sum)
+#### [**Leet Code Example**](https://leetcode.com/problems/slowest-key/)
 
 -----
 

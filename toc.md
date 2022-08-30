@@ -11,6 +11,7 @@
 - [🌟 Merge Two Sorted Lists](./code_challenges/merge_two_sorted_lists.md)
 - [🌟 Slowest Key](./code_challenges/slowest_key.md)
 - [🌟 Trees Height](./code_challenges/trees_height.md)
+- [🌟 Robot Bounded in Circle](./code_challenges/robot_bounded_in_circle.md)
 
 ------
 

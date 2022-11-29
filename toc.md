@@ -12,6 +12,7 @@
 - [🌟 Slowest Key](./code_challenges/slowest_key.md)
 - [🌟 Trees Height](./code_challenges/trees_height.md)
 - [🌟 Robot Bounded in Circle](./code_challenges/robot_bounded_in_circle.md)
+- [🌟 Maximum Subarray](./code_challenges/max_subarray.md)
 
 ------
 

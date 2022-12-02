@@ -14,6 +14,7 @@
 - [🌟 Robot Bounded in Circle](./code_challenges/robot_bounded_in_circle.md)
 - [🌟 Maximum Subarray](./code_challenges/max_subarray.md)
 - [🌟 Two Sum (Part Dux)](./code_challenges/two-sum-partdux.md)
+- [🌟 Merge Sorted Array](./code_challenges/mergesortedarray.md)
 
 ------
 

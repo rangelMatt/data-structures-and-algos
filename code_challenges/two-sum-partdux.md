@@ -45,10 +45,13 @@ if not, assign index to dictionary `lookup` with value of num.
 
 ```Python
 def twoSum(nums, target):
-  for i in range(len(nums)):
-    for j in range(i + 1, len(nums)):
-      if nums[j] == target - nums[i]:
-        return [i, j]
+  lookup = {}
+  for i, n in enumerate(nums):
+    if target - n in lookup:
+      return [lookup[target - n], i]
+    lookup[n] = i
+
+  return []
 ```
 
 ### **testing**

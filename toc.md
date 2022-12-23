@@ -16,6 +16,7 @@
 - [🌟 Two Sum (Part Dux)](./code_challenges/two-sum-partdux.md)
 - [🌟 Merge Sorted Array](./code_challenges/mergesortedarray.md)
 - [🌟 Intersection of Two Arrays](./code_challenges/intersection_of_two_arraysII.md)
+- [🌟 Binary Search](./code_challenges/binary_search.md)
 
 ------
 

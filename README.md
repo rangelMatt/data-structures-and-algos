@@ -1,14 +1,11 @@
 # Matt's Data Structures and Algorithms
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 <p align="center">
-
-<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-<!-- <p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a> -->
-
+<!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
 <a href="https://www.linkedin.com/in/rangel-matt/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-</p>
-
+<!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:mattrangel@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/dev.png"></a>&nbsp;&nbsp; -->
 </p>

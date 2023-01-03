@@ -1,6 +1,6 @@
 # Matt's Data Structures and Algorithms
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+![DSA](https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif)
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->

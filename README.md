@@ -2,7 +2,9 @@
 
 <p align="center">
 
-<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a>
+<iframe src="https://giphy.com/embed/7VzgMsB6FLCilwS30v" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<!-- <p><a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a> -->
 
 <a href="https://www.linkedin.com/in/rangel-matt/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/linkedin.png"></a>&nbsp;&nbsp;
 </p>

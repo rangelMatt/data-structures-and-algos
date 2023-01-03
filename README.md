@@ -1,6 +1,6 @@
 # Matt's Data Structures and Algorithms
 
-<img src="./images/aigif.gif" alt="dsa">
+<img width="100%"src="./images/aigif.gif" alt="dsa">
 
 <p align="center">
 <!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->

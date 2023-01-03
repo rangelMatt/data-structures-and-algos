@@ -18,7 +18,7 @@
 
 -----
 
-## Please click the Table of Contents link where you will find my DSA practices. Please also find the `Data Structure Checklist/Refresher` link that serves as a quick resource guide that I follow while working in this repo
+### Please click the Table of Contents link where you will find my DSA practices. Please also find the `Data Structure Checklist/Refresher` link that serves as a quick resource guide that I follow while working in this repo
 
 ### - [Table of Contents](toc.md)
 

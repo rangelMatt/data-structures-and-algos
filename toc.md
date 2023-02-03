@@ -18,6 +18,7 @@
 - [🌟 Intersection of Two Arrays](./code_challenges/intersection_of_two_arraysII.md)
 - [🌟 Binary Search](./code_challenges/binary_search.md)
 - [🌟 Find Closest Value in BST](./code_challenges/find-closest-value-in-bst.md)
+- [🌟 Branch Sums](./code_challenges/branch-sums.md)
 
 ------
 

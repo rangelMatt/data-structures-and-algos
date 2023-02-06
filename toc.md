@@ -4,6 +4,7 @@
 
 ------
 
+- [🌟 Bubble Sort](./code_challenges/two-sum.md)
 - [🌟 Two Sum](./code_challenges/two-sum.md)
 - [🌟 Contains Duplicate](./code_challenges/contains_duplicate.md)
 - [🌟 Reverse Linked list](./code_challenges/reverse_linked_list.md)

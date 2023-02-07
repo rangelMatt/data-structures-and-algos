@@ -4,6 +4,7 @@
 
 ------
 
+- [🌟 Nth Fibonacci](./code_challenges/nthFibonacci.md)
 - [🌟 Bubble Sort](./code_challenges/two-sum.md)
 - [🌟 Two Sum](./code_challenges/two-sum.md)
 - [🌟 Contains Duplicate](./code_challenges/contains_duplicate.md)

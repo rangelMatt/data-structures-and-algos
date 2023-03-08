@@ -2,8 +2,9 @@
 
 ## This section is to help navigate through the data structures and algorithms that I worked on
 
-------
+---
 
+- [🌟 Insertion Sort](./code_challenges/insertionSort.md)
 - [🌟 Nth Fibonacci](./code_challenges/nthFibonacci.md)
 - [🌟 Bubble Sort](./code_challenges/two-sum.md)
 - [🌟 Two Sum](./code_challenges/two-sum.md)
@@ -22,6 +23,6 @@
 - [🌟 Find Closest Value in BST](./code_challenges/find-closest-value-in-bst.md)
 - [🌟 Branch Sums](./code_challenges/branch-sums.md)
 
-------
+---
 
 ### 👈 [Back to README](README.md)

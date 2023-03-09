@@ -4,6 +4,7 @@
 
 ---
 
+- [🌟 Palindrome Check](./code_challenges/palindromeCheck.md)
 - [🌟 Insertion Sort](./code_challenges/insertionSort.md)
 - [🌟 Nth Fibonacci](./code_challenges/nthFibonacci.md)
 - [🌟 Bubble Sort](./code_challenges/two-sum.md)
